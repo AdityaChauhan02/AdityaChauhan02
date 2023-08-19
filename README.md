@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @AdityaChauhan02
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning ...
-- 💞
 - 📫 feel free to connect me on @adityachauhan00213@gmail.com
 
 <!---
